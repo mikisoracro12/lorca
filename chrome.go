@@ -1,7 +1,6 @@
 package lorca
 
 import (
-	"bufio"
 	"encoding/json"
 	"errors"
 	"fmt"
